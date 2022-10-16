@@ -1,0 +1,36 @@
+{
+  "name": "magenizr/magento2-duplicate",
+  "description": "",
+  "type": "magento2-module",
+  "version": "1.0.0",
+  "license": [
+    "OSL-3.0"
+  ],
+  "authors": [
+    {
+      "name": "Magenizr",
+      "email": "modules@magenizr.com",
+      "homepage": "https://www.magenizr.com"
+    }
+  ],
+  "keywords": [
+    "Magento 2",
+    "Admin",
+    "Backend",
+    "Duplicate",
+    "Copy",
+    "CMS Pages",
+    "CMS Blocks",
+    "Category",
+    "Category Rules",
+    "Price Cart Rules"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Magenizr\\Duplicate\\": ""
+    }
+  }
+}

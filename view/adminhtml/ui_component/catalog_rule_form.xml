@@ -1,0 +1,7 @@
+<form xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Ui:etc/ui_configuration.xsd">
+    <settings>
+        <buttons>
+            <button name="magenizr_duplicate_catalog_rule" class="Magenizr\Duplicate\Block\Adminhtml\CatalogRule\DuplicateButton"/>
+        </buttons>
+    </settings>
+</form>
