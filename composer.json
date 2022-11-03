@@ -1,6 +1,6 @@
 {
   "name": "magenizr/magento2-duplicate",
-  "description": "",
+  "description": "Save time by duplicating records such as Catalog and Cart Price Rules, CMS Pages and Blocks or Categories.",
   "type": "magento2-module",
   "version": "1.0.0",
   "license": [
