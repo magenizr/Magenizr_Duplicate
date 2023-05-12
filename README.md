@@ -7,21 +7,6 @@ Save time by duplicating records such as Catalog and Cart Price Rules, CMS Pages
 - Magento 2.4.x
 - PHP 7.x
 
-## Installation (Composer)
-
-1. Update your composer.json `composer require "magenizr/magento2-duplicate":"1.0.0" --no-update`
-2. Install dependencies and update your composer.lock `composer update --lock`
-
-```
-./composer.json has been updated
-Loading composer repositories with package information
-Updating dependencies (including require-dev)              
-Package operations: 1 install, 0 updates, 0 removals
-  - Installing magenizr/magento2-duplicate (1.0.0): Downloading (100%)         
-Writing lock file
-Generating autoload files
-```
-
 ## Installation (Composer 2)
 
 1. Update your composer.json `composer require "magenizr/magento2-duplicate":"1.0.0" --no-update`
@@ -57,7 +42,6 @@ php bin/magento setup:upgrade
 
 ```
 php bin/magento module:enable Magenizr_Duplicate --clear-static-content
-php bin/magento setup:upgrade
 ```
 
 ## Features
