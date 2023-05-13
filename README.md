@@ -1,3 +1,6 @@
+[![Magenizr Plus](https://images2.imgbox.com/9a/ca/3rXwQJY2_o.gif)](https://account.magenizr.com)
+---
+
 # Duplicate
 Save time by duplicating records such as Catalog and Cart Price Rules, CMS Pages and Blocks or Categories. 
 
@@ -53,7 +56,7 @@ php bin/magento module:enable Magenizr_Duplicate --clear-static-content
 Simply go and edit your Catalog Price Rule, Cart Price Rule, CMS Page, CMS Block or Category and hit the `Duplicate` button.
 
 ## Support
-If you experience any issues, don't hesitate to open an issue on [Github](https://github.com/magenizr/Magenizr_Duplicate/issues). For a custom build, contact us on [Magento Marketplace](https://marketplace.magento.com/partner/magenizr).
+If you experience any issues, don't hesitate to open an issue on [Github](https://github.com/magenizr/Magenizr_Duplicate/issues).
 
 ## Purchase
 This module is available for free on [GitHub](https://github.com/magenizr).
