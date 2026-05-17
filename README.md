@@ -1,5 +1,3 @@
----
-
 # Duplicate
 Save time by duplicating records such as Catalog and Cart Price Rules, CMS Pages and Blocks or Categories. 
 
